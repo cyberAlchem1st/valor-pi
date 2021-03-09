@@ -1,2 +1,2 @@
-# valor-pi
-Estimando o valor de PI pelo método de Monte Carlo em Python
+# Vi um vídeo do Joma Tech que ele comentava essa forma de estimar o valor de Pi.
+## Ta ai o código então :smiley:
