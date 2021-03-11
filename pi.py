@@ -1,6 +1,6 @@
 import random
 
-n = int(input('Quantidade de numeros: '))
+n = int(input('Quantidade de pontos: '))
 circle = 0
 square = 0
 for i in range(n):
